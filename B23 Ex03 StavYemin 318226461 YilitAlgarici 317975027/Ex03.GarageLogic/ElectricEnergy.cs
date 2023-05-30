@@ -13,8 +13,10 @@ namespace Ex03.GarageLogic
             }
             else
             {
-                throw ValueOutOfRangeException;
+                throw ValueOutOfRangeException;//
             }
         }
+        
+        private 
     }
 }
